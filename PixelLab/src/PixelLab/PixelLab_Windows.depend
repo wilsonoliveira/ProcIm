@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1371849281 source:/home/wilson/Documents/Processamento de Imagem/PixelLab/src/PixelLab/pixelLab.cpp
+	"pixelLab.h"
+	<fstream>
+	<iostream>
+	<windows.h>
+	"GL/glut.h"
+	"png.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1372456063 /home/wilson/Documents/Processamento de Imagem/PixelLab/src/PixelLab/pixelLab.h
+
+1260225348 /home/wilson/Documents/Processamento de Imagem/PixelLab/include/GL/glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1267026596 /home/wilson/Documents/Processamento de Imagem/PixelLab/include/png/png.h
+	"zlib.h"
+	"pngconf.h"
+	<crtdbg.h>
+
+1267037988 /home/wilson/Documents/Processamento de Imagem/PixelLab/include/zlib/zlib.h
+	"zconf.h"
+
+1267037988 /home/wilson/Documents/Processamento de Imagem/PixelLab/include/zlib/zconf.h
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+	<unixio.h>
+
+1267026596 /home/wilson/Documents/Processamento de Imagem/PixelLab/include/png/pngconf.h
+	"pngusr.h"
+	"config.h"
+	<windows.h>
+	<stdio.h>
+	<stdio.h>
+	<sys/types.h>
+	<setjmp.h>
+	<strings.h>
+	<string.h>
+	<stdlib.h>
+	<fp.h>
+	<math.h>
+	<m68881.h>
+	<mem.h>
+	<alloc.h>
+	<malloc.h>
+	<time.h>
+	<dos.h>
+
